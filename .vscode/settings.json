@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "testepsilenis",
+        "projectKey": "testepsilenis_azur"
+    }
+}
